@@ -8,7 +8,7 @@ and will use the past two years of test data and outside research to make recomm
 
 ### Directory Structure
 Project-improve_SAT_participation_rate_in_Nevata
-'''
+```
 |__ code
 |   |__ project_work_book.ipynb     
 |__ data
@@ -23,7 +23,7 @@ Project-improve_SAT_participation_rate_in_Nevata
 |   |__ recommendations.png
 |__ Presentation-Means_to_Improve_SAT_Participation Rate_for_Nevata.pdf
 |__ README.md
-'''
+```
 
 ### Data
 This project has two provided 2017 test score datasets, the 2018 test score datasets were obtain through SAT and ACT official
