@@ -8,20 +8,22 @@ and will use the past two years of test data and outside research to make recomm
 
 ### Directory Structure
 Project-improve_SAT_participation_rate_in_Nevata
-code
-- project_work_book.ipynb     
-data
-- act_2017.csv
-- act_2018.csv
-- sat_2017.csv
-- sat_2018.csv
-- combined_2017.csv
-- combined_2018.csv
-- final.csv
-images
-- recommendations.png
-Presentation-Means_to_Improve_SAT_Participation Rate_for_Nevata.pdf
-README.md
+'''
+|__ code
+|   |__ project_work_book.ipynb     
+|__ data
+|   |__ act_2017.csv
+|   |__ act_2018.csv
+|   |__ sat_2017.csv
+|   |__ sat_2018.csv
+|   |__ combined_2017.csv
+|   |__ combined_2018.csv
+|   |__ final.csv
+|__ images
+|   |__ recommendations.png
+|__ Presentation-Means_to_Improve_SAT_Participation Rate_for_Nevata.pdf
+|__ README.md
+'''
 
 ### Data
 This project has two provided 2017 test score datasets, the 2018 test score datasets were obtain through SAT and ACT official
